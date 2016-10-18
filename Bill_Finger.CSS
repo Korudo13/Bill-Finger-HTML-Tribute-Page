@@ -2,6 +2,18 @@
     width: 350px;
   }
 
+.smallerImage{
+  width: 250px;
+}
+
+.biggerImage{
+  width: 500px;
+}
+
+.largestImage{
+  width: 700px;
+}
+
 body{
   margin-top: 60px;
 }
